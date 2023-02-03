@@ -1,0 +1,41 @@
+{
+  "name": "tennis-booking",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "start": "vite"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    "@fortawesome/free-brands-svg-icons": "^6.2.1",
+    "@fortawesome/free-regular-svg-icons": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/vue-fontawesome": "^3.0.2",
+    "@vue/router-root": "https://github.com/vuejs/vue-router-next/tarball/master",
+    "axios": "^0.27.2",
+    "nodemailer": "^6.8.0",
+    "sass": "^1.56.2",
+    "scss": "^0.2.4",
+    "sweetalert": "^2.1.2",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.6",
+    "vue-router-back-button": "^1.3.2",
+    "vue-sweetalert2": "^5.0.5",
+    "vue-toast-notification": "3.0",
+    "vue3-smooth-scroll": "^0.8.1",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@iconify/vue": "^3.2.1",
+    "@vitejs/plugin-vue": "^3.2.0",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwindcss": "^3.2.4",
+    "vite": "^3.2.3",
+    "vite-plugin-mkcert": "^1.10.1"
+  }
+}
